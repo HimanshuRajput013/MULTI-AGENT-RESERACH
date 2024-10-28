@@ -1,4 +1,4 @@
-# Market Research & Use Case Generation Agent
+# Market Research & AI Use Case Generation Agent Using CrewAI & Gemini Pro LLM
 ![How-to-install-and-run-CrewAI-for-free-locally webp](https://github.com/user-attachments/assets/ead145fa-3120-4804-a7ab-1adb9d46c6a8)
 
 
