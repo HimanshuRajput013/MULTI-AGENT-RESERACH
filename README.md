@@ -7,13 +7,9 @@ This Streamlit application provides a Market Research and Use Case Analysis Repo
 ## Features
 
 - **Market Research Agent**: Conducts comprehensive competitor and market position analysis.
-
 - **Resource Collection Agent**: Gathers open-source datasets for each identified AI/ML use case.
-- 
 - **Streamlit Interface**: Simple and interactive UI to enter inputs and receive downloadable reports.
-- 
 - **Real-Time Output Streaming**: Uses ANSI escape code filtering to display color-coded agent status updates.
-- 
 - **Report Download**: Generates and allows users to download the completed report in markdown format.
 
 ## Installation
@@ -28,5 +24,7 @@ This Streamlit application provides a Market Research and Use Case Analysis Repo
 
 ```bash
 pip install -r requirements.txt
+
+3.
 
 
