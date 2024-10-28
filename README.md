@@ -1,4 +1,6 @@
 # Market Research & Use Case Generation Agent
+![How-to-install-and-run-CrewAI-for-free-locally webp](https://github.com/user-attachments/assets/ead145fa-3120-4804-a7ab-1adb9d46c6a8)
+
 
 ## Overview
 
