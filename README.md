@@ -17,13 +17,13 @@ This Streamlit application provides a Market Research and Use Case Analysis Repo
 **1. Clone the repository:**
    ```bash
    git clone https://github.com/HimanshuRajput013/MULTI-AGENT-RESERACH.git
-   cd MULTI-AGENT-RESERACH  ```
+   cd MULTI-AGENT-RESERACH```
 
 
 **2.Install the required dependencies:**
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 
 3.Set up environment variables by creating a .env file in the root directory, including:
