@@ -1,0 +1,13 @@
+prefix=C:/MULTI AGENT RESEARCH/venvv/Library
+exec_prefix=C:/MULTI AGENT RESEARCH/venvv/Library
+libdir=C:/MULTI AGENT RESEARCH/venvv/Library/lib
+sharedlibdir=C:/MULTI AGENT RESEARCH/venvv/Library/lib
+includedir=C:/MULTI AGENT RESEARCH/venvv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

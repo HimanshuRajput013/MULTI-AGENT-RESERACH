@@ -1,0 +1,10 @@
+| Title | Description | Link |
+|---|---|---|
+| Medical Image Classification | A dataset of medical images that can be used to train AI models to classify diseases. | [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) |
+| EHR Data Analysis | A dataset of electronic health records that can be used to train AI models to identify patterns and trends in patient data. | [Kaggle](https://www.kaggle.com/datasets/google-cloud-developer-relations/mimic-iii-clinical-database) |
+| Patient Support Chatbot | A dataset of patient support chatbot conversations that can be used to train AI models to provide patients with information and support. | [Kaggle](https://www.kaggle.com/datasets/crowdflower/patient-support-chatbot-conversations) |
+| Healthcare Appointment Scheduling | A dataset of healthcare appointment scheduling data that can be used to train AI models to automate the process of scheduling appointments. | [Kaggle](https://www.kaggle.com/datasets/clinicalml/healthcare-appointment-scheduling) |
+| Drug Discovery | A dataset of drug discovery data that can be used to train AI models to accelerate the discovery and development of new drugs. | [Kaggle](https://www.kaggle.com/datasets/amazon/amazon-ai-drug-discovery-hackathon) |
+| Personalized Treatment Planning | A dataset of patient data that can be used to train AI models to develop personalized treatment plans for individual patients. | [Kaggle](https://www.kaggle.com/datasets/leah1215/personalized-treatment-planning) |
+| Disease Risk Prediction | A dataset of patient data that can be used to train AI models to predict the risk of developing certain diseases. | [Kaggle](https://www.kaggle.com/datasets/connie1228/heart-failure-dataset) |
+| Remote Patient Monitoring | A dataset of patient monitoring data that can be used to train AI models to track patient health data and provide feedback. | [Kaggle](https://www.kaggle.com/datasets/ciufolinicola1989/remote-patient-monitoring-dataset) |
