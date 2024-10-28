@@ -17,7 +17,7 @@ This Streamlit application provides a Market Research and Use Case Analysis Repo
 **1. Clone the repository:**
    ```bash
    git clone https://github.com/HimanshuRajput013/MULTI-AGENT-RESERACH.git
-   cd MULTI-AGENT-RESERACH
+   cd MULTI-AGENT-RESERACH  ```
 
 
 **2.Install the required dependencies:**
